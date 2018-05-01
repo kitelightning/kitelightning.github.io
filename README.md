@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Kite & Lightning's Open Source UE4 Repo
 
-You can use the [editor on GitHub](https://github.com/kitelightning/kitelightning.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We're a small 4-team VR indie studio working on a immortal baby party brawler, **[Bebylon Battle Royale](http://bebylon.world) (http://bebylon.world)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're big on sharing so we decided to pull all our various open-sourced UE4 features/plugins into this repo. Everything here is permissively licensed so feel free to use in your own games.
 
-### Markdown
+In return, we only ask that you **help us spread the word about our VR game, *Bebylon Battle Royale* by following us on *[@KNLStudio](https://twitter.com/knlstudio/)* or signing up to our newsletter *http://eepurl.com/Qnlzb***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Repos
+--------
 
-```markdown
-Syntax highlighted code block
+### Microprofile
+Integrating jonas' amazing [microprofile](https://github.com/jonasmr/microprofile). It's a fully featured profiler with live capture support, GPU timers, flame graphs, and remote capture. Short demo video: https://twitter.com/KNLstudio/status/911672310238556160
 
-# Header 1
-## Header 2
-### Header 3
+[Repo: ](https://github.com/ikrima/UnrealEngine/tree/feature-microprofiler)https://github.com/ikrima/UnrealEngine/tree/feature-microprofiler
 
-- Bulleted
-- List
+### Unreal Engine Python
+Fully featured Python support in UE4: https://twitter.com/KNLstudio/status/932657812466843648
+- Full access to UE4's reflection layer (UObjects, UFunctions, & Blueprints)
+- Extensive support for native Slate widgets & UMG in Python
+- Support for Editor Extensions (Custom Viewports, ToolbarButtons, Custom Context Menus)
+- Automation: Creating custom asset import pipelines like ingesting FBX, creating animation composites,
+- Sequencer scripting support
 
-1. Numbered
-2. List
+[Our fork is at ](https://github.com/kitelightning/UnrealEnginePython/)https://github.com/kitelightning/UnrealEnginePython/
 
-**Bold** and _Italic_ and `Code` text
+### LivePP UE4 Plugin
+Live++ is an insanely fast hot-reloading library. Here's an example in our project of doing a hotreload in < 2s: https://twitter.com/KNLstudio/status/984093749461401602. The plugin is does the integration work for you and you simply just need to drop it in your project. 
 
-[Link](url) and ![Image](src)
-```
+Live++ is made by Molecular Matter. (https://molecular-matters.com/products_livepp.html)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kitelightning/kitelightning.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Repo: ](https://github.com/kitelightning/LivePP)https://github.com/kitelightning/LivePP
