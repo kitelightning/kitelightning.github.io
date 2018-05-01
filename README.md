@@ -4,7 +4,7 @@ We're a small 4-team VR indie studio working on a immortal baby party brawler, *
 
 We're big on sharing so we decided to pull all our various open-sourced UE4 features/plugins into this repo. Everything here is permissively licensed so feel free to use in your own games.
 
-In return, we only ask that you **help us spread the word about our VR game, *Bebylon Battle Royale* by following us on *[@KNLStudio](https://twitter.com/knlstudio/)* or signing up to our [newsletter (http://eepurl.com/Qnlzb)](http://eepurl.com/Qnlzb)* **
+In return, we only ask that you **help us spread the word about our VR game, *Bebylon Battle Royale* by following us on *[@KNLStudio](https://twitter.com/knlstudio/)* or signing up to our *[newsletter (http://eepurl.com/Qnlzb)](http://eepurl.com/Qnlzb)***
 
 Repos
 --------
