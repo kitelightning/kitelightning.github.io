@@ -15,7 +15,7 @@ Integrating jonas' amazing [microprofile](https://github.com/jonasmr/microprofil
 [Repo: https://github.com/ikrima/UnrealEngine/tree/feature-microprofiler](https://github.com/ikrima/UnrealEngine/tree/feature-microprofiler)
 
 ### Unreal Engine Python
-Fully featured Python support in UE4: https://twitter.com/KNLstudio/status/932657812466843648
+Fully featured Python support in UE4: [https://twitter.com/KNLstudio/status/932657812466843648](https://twitter.com/KNLstudio/status/932657812466843648)
 - Full access to UE4's reflection layer (UObjects, UFunctions, & Blueprints)
 - Extensive support for native Slate widgets & UMG in Python
 - Support for Editor Extensions (Custom Viewports, ToolbarButtons, Custom Context Menus)
@@ -25,8 +25,8 @@ Fully featured Python support in UE4: https://twitter.com/KNLstudio/status/93265
 [Our fork is at https://github.com/kitelightning/UnrealEnginePython/](https://github.com/kitelightning/UnrealEnginePython/)
 
 ### LivePP UE4 Plugin
-Live++ is an insanely fast hot-reloading library. Here's an example in our project of doing a hotreload in < 2s: https://twitter.com/KNLstudio/status/984093749461401602. The plugin is does the integration work for you and you simply just need to drop it in your project. 
+Live++ is an insanely fast hot-reloading library. Here's an example in our project of doing a hotreload in < 2s: [https://twitter.com/KNLstudio/status/984093749461401602](https://twitter.com/KNLstudio/status/984093749461401602). The plugin is does the integration work for you and you simply just need to drop it in your project. 
 
-Live++ is made by Molecular Matter. (https://molecular-matters.com/products_livepp.html)
+Live++ is made by [Molecular Matter](https://molecular-matters.com/products_livepp.html)
 
 [Repo: https://github.com/kitelightning/LivePP](https://github.com/kitelightning/LivePP)
