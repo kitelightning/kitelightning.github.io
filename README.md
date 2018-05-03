@@ -14,6 +14,7 @@ Integrating jonas' amazing [microprofile](https://github.com/jonasmr/microprofil
 
 [Repo: https://github.com/ikrima/UnrealEngine/tree/feature-microprofiler](https://github.com/ikrima/UnrealEngine/tree/feature-microprofiler)
 
+
 ### Unreal Engine Python
 Fully featured Python support in UE4: [https://twitter.com/KNLstudio/status/932657812466843648](https://twitter.com/KNLstudio/status/932657812466843648)
 - Full access to UE4's reflection layer (UObjects, UFunctions, & Blueprints)
@@ -24,9 +25,26 @@ Fully featured Python support in UE4: [https://twitter.com/KNLstudio/status/9326
 
 [Our fork is at https://github.com/kitelightning/UnrealEnginePython/](https://github.com/kitelightning/UnrealEnginePython/)
 
+
 ### LivePP UE4 Plugin
 Live++ is an insanely fast hot-reloading library. Here's an example in our project of doing a hotreload in < 2s: [https://twitter.com/KNLstudio/status/984093749461401602](https://twitter.com/KNLstudio/status/984093749461401602). The plugin is does the integration work for you and you simply just need to drop it in your project. 
 
 Live++ is made by [Molecular Matter](https://molecular-matters.com/products_livepp.html)
 
 [Repo: https://github.com/kitelightning/LivePP](https://github.com/kitelightning/LivePP)
+
+
+### IGMemtrace
+**Coming Soon:** [Integrating Insomniac Games MemTrace Tool into UE4](https://github.com/deplinenoise/ig-memtrace)
+The tool is a faster & more improved variant of UE4's MallocProfiler. For example, it doesn't take 20 mins to open a couple minute trace.
+
+Features 
+- Lightweight C++ runtime component with network recording
+- CRT heap hooking on Windows (Durango hooking available on request to licensed devs)
+- Full support for custom heaps and allocators
+- Supports displaying and analyzing fragmentation for custom heaps
+- Can display a delta between two arbitrary points in time.
+- Can aggregate memory data along several axes, including custom scopes
+- Supports asset and component memory scoping out of the box, but can be
+  extended in source to group on arbitrary scopes
+- Supports forward and backward scrubbing in trace files during analysis
