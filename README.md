@@ -10,7 +10,7 @@ Repos
 --------
 
 ### Microprofile
-**Coming soon:** 4.19 Integration with in-game live update drawing [Video demo: https://twitter.com/KNLstudio/status/999422263190474752](https://twitter.com/KNLstudio/status/999422263190474752)
+**NEW:** 4.19.2 Integration with in-game live update drawing [Video demo: https://twitter.com/KNLstudio/status/999422263190474752](https://twitter.com/KNLstudio/status/999422263190474752)
 
 Integrating jonas' amazing [microprofile](https://github.com/jonasmr/microprofile). It's a fully featured profiler with live capture support, GPU timers, flame graphs, and remote capture. [Short demo video: https://twitter.com/KNLstudio/status/911672310238556160](https://twitter.com/KNLstudio/status/911672310238556160)
 
